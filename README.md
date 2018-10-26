@@ -1,0 +1,2 @@
+# vue-nuxt
+ssr
